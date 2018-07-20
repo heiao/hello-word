@@ -1,12 +1,15 @@
 # hello-word1
-This is my test
-try
-again
-olololol
+#This is my test
+#try
+#again
+#olololol
 
 
-hhhhhhhhh
+#hhhhhhhhh
 
 
 
-aaaaaaaa
+#aaaaaaaa
+
+
+puts "hello word"
